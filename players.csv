@@ -1,0 +1,660 @@
+Index,Name,Team,Acceleration,Speed,Shot_power,Centimeters,Kilograms,Radius
+0, E. Hazard,Chelsea,93,87,79,173.0,76.0,22.0
+1, De Gea,Manchester United,57,58,31,193.0,76.0,24.0
+2, A. Sánchez,Arsenal,88,84,84,170.0,62.0,22.0
+3, T. Courtois,Chelsea,46,52,36,198.0,94.0,24.0
+4, S. Agüero,Manchester City,90,84,88,173.0,70.0,22.0
+5, K. De Bruyne,Manchester City,76,75,85,180.0,68.0,23.0
+6, M. Özil,Arsenal,75,68,70,180.0,76.0,23.0
+7, Z. Ibrahimović,Manchester United,63,67,91,196.0,95.0,24.0
+8, H. Lloris,Tottenham Hotspur,65,63,23,188.0,82.0,23.0
+9, N. Kanté,Chelsea,82,80,72,168.0,68.0,21.0
+10, David Silva,Manchester City,72,65,71,173.0,67.0,22.0
+11, P. Pogba,Manchester United,72,76,90,190.0,84.0,24.0
+12, C. Eriksen,Tottenham Hotspur,77,74,80,183.0,76.0,23.0
+13, P. Čech,Arsenal,40,44,21,196.0,90.0,24.0
+14, Cesc Fàbregas,Chelsea,65,62,77,180.0,77.0,23.0
+15, Diego Costa,Chelsea,74,75,84,185.0,87.0,23.0
+16, David Luiz,Chelsea,68,71,77,188.0,84.0,23.0
+17, Coutinho,Liverpool,88,77,80,170.0,71.0,22.0
+18, R. Lukaku,Manchester United,76,89,88,190.0,94.0,24.0
+19, T. Alderweireld,Tottenham Hotspur,62,69,86,188.0,91.0,23.0
+20, H. Kane,Tottenham Hotspur,68,74,87,188.0,86.0,23.0
+21, A. Lacazette,Arsenal,84,87,81,175.0,73.0,22.0
+22, Azpilicueta,Chelsea,78,79,68,178.0,78.0,22.0
+23, V. Kompany,Manchester City,61,64,75,193.0,85.0,24.0
+24, I. Gündoğan,Manchester City,73,70,77,180.0,80.0,23.0
+25, H. Mkhitaryan,Manchester United,88,84,87,178.0,75.0,22.0
+26, J. Vertonghen,Tottenham Hotspur,68,66,86,188.0,88.0,23.0
+27, L. Koscielny,Arsenal,74,76,54,185.0,75.0,23.0
+28, S. Mustafi,Arsenal,64,69,66,183.0,82.0,23.0
+29, G. Cahill,Chelsea,62,63,63,193.0,86.0,24.0
+30, Willian,Chelsea,91,86,71,175.0,77.0,22.0
+31, Pedro,Chelsea,84,80,71,170.0,65.0,22.0
+32, Morata,Chelsea,78,86,80,188.0,85.0,23.0
+33, S. Mané,Liverpool,94,92,77,175.0,69.0,22.0
+34, Bernardo Silva,Manchester City,85,78,72,173.0,64.0,22.0
+35, Juan Mata,Manchester United,71,63,75,170.0,63.0,22.0
+36, Ander Herrera,Manchester United,76,70,72,183.0,70.0,23.0
+37, E. Bailly,Manchester United,75,80,55,188.0,77.0,23.0
+38, D. Alli,Tottenham Hotspur,77,76,77,188.0,80.0,23.0
+39, Santi Cazorla,Arsenal,68,63,77,168.0,66.0,21.0
+40, M. Schneiderlin,Everton,67,68,71,180.0,75.0,23.0
+41, I. Gueye,Everton,78,75,80,175.0,66.0,22.0
+42, A. Lallana,Liverpool,74,72,72,173.0,73.0,22.0
+43, J. Matip,Liverpool,60,73,66,196.0,90.0,24.0
+44, Roberto Firmino,Liverpool,77,77,79,180.0,76.0,23.0
+45, M. Salah,Liverpool,93,93,71,175.0,71.0,22.0
+46, Y. Touré,Manchester City,61,64,86,188.0,90.0,23.0
+47, K. Walker,Manchester City,86,93,86,183.0,83.0,23.0
+48, N. Otamendi,Manchester City,62,64,69,183.0,81.0,23.0
+49, Ederson,Manchester City,64,63,42,188.0,86.0,23.0
+50, A. Valencia,Manchester United,88,87,85,180.0,83.0,23.0
+51, N. Matić,Manchester United,62,66,78,193.0,85.0,24.0
+52, V. van Dijk,Southampton,69,76,81,193.0,92.0,24.0
+53, M. Dembélé,Tottenham Hotspur,75,77,85,185.0,88.0,23.0
+54, K. Schmeichel,Leicester City,62,60,36,188.0,89.0,23.0
+55, R. Mahrez,Leicester City,85,80,76,178.0,67.0,22.0
+56, O. Giroud,Arsenal,51,55,85,193.0,88.0,24.0
+57, A. Ramsey,Arsenal,67,68,81,183.0,76.0,23.0
+58, G. Xhaka,Arsenal,48,51,88,185.0,82.0,23.0
+59, A. Rüdiger,Chelsea,73,75,70,190.0,85.0,24.0
+60, T. Bakayoko,Chelsea,75,72,72,188.0,85.0,23.0
+61, L. Baines,Everton,73,68,84,170.0,74.0,22.0
+62, A. Williams,Everton,62,67,64,183.0,77.0,23.0
+63, G. Sigurðsson,Everton,65,66,82,185.0,77.0,23.0
+64, D. Klaassen,Everton,73,73,78,178.0,70.0,22.0
+65, D. Sturridge,Liverpool,74,78,83,180.0,76.0,23.0
+66, G. Wijnaldum,Liverpool,79,82,78,175.0,69.0,22.0
+67, J. Henderson,Liverpool,73,71,75,183.0,67.0,23.0
+68, N. Clyne,Liverpool,82,83,74,175.0,67.0,22.0
+69, Fernandinho,Manchester City,73,73,83,178.0,67.0,22.0
+70, C. Bravo,Manchester City,58,54,22,183.0,80.0,23.0
+71, R. Sterling,Manchester City,94,92,68,170.0,69.0,22.0
+72, L. Sané,Manchester City,93,94,78,183.0,75.0,23.0
+73, M. Rojo,Manchester United,70,71,79,188.0,80.0,23.0
+74, A. Martial,Manchester United,92,89,84,180.0,76.0,23.0
+75, D. Rose,Tottenham Hotspur,80,81,72,175.0,76.0,22.0
+76, V. Wanyama,Tottenham Hotspur,60,68,79,183.0,87.0,23.0
+77, H. Son,Tottenham Hotspur,87,86,83,183.0,77.0,23.0
+78, E. Dier,Tottenham Hotspur,70,74,83,188.0,90.0,23.0
+79, J. Hart L,West Ham United,59,60,65,196.0,91.0,24.0
+80, J. Hernández,West Ham United,84,75,76,175.0,73.0,22.0
+81, M. Arnautović,West Ham United,76,78,78,193.0,83.0,24.0
+82, Iborra,Leicester City,49,51,85,190.0,91.0,24.0
+83, I. Slimani,Leicester City,66,72,78,188.0,83.0,23.0
+84, O. Karnezis L,Watford,44,34,22,190.0,81.0,24.0
+85, X. Shaqiri,Stoke City,87,79,85,170.0,72.0,22.0
+86, A. Begović,Bournemouth,52,58,28,198.0,83.0,24.0
+87, Roque Mesa,Swansea City,76,78,63,170.0,74.0,22.0
+88, P. Mertesacker,Arsenal,26,28,71,198.0,90.0,24.0
+89, J. Wilshere,Arsenal,73,69,75,173.0,68.0,22.0
+90, Héctor Bellerín,Arsenal,96,94,52,178.0,74.0,22.0
+91, Marcos Alonso,Chelsea,74,79,79,188.0,84.0,23.0
+92, A. Christensen,Chelsea,70,73,31,188.0,78.0,23.0
+93, W. Rooney,Everton,67,68,86,175.0,83.0,22.0
+94, K. Mirallas,Everton,82,84,77,183.0,72.0,23.0
+95, S. Coleman,Everton,74,72,75,178.0,67.0,22.0
+96, R. Barkley,Everton,77,77,80,188.0,76.0,23.0
+97, M. Keane,Everton,73,72,58,190.0,82.0,24.0
+98, S. Mignolet,Liverpool,55,56,45,193.0,87.0,24.0
+99, D. Lovren,Liverpool,57,55,63,188.0,84.0,23.0
+100, Gabriel Jesus,Manchester City,89,85,78,175.0,73.0,22.0
+101, C. Smalling,Manchester United,69,75,42,193.0,81.0,24.0
+102, M. Rashford,Manchester United,93,92,82,185.0,70.0,23.0
+103, S. Aurier,Tottenham Hotspur,84,84,78,175.0,76.0,22.0
+104, D. Sánchez,Tottenham Hotspur,65,76,74,188.0,79.0,23.0
+105, M. Lanzini,West Ham United,85,80,75,168.0,59.0,21.0
+106, J. Vardy,Leicester City,91,91,85,178.0,74.0,22.0
+107, G. Krychowiak L,West Bromwich Albion,62,68,81,185.0,85.0,23.0
+108, T. Heaton,Burnley,56,53,14,188.0,86.0,23.0
+109, M. Sakho,Crystal Palace,53,67,51,188.0,83.0,23.0
+110, C. Benteke,Crystal Palace,70,76,85,190.0,83.0,24.0
+111, W. Zaha,Crystal Palace,89,90,75,180.0,66.0,23.0
+112, J. Butland,Stoke City,38,43,29,196.0,95.0,24.0
+113, T. Walcott,Arsenal,92,91,76,175.0,68.0,22.0
+114, Nacho Monreal,Arsenal,75,76,71,178.0,72.0,22.0
+115, D. Welbeck,Arsenal,83,84,77,185.0,73.0,23.0
+116, S. Kolašinac,Arsenal,73,82,82,183.0,85.0,23.0
+117, M. Batshuayi,Chelsea,77,80,83,185.0,86.0,23.0
+118, P. Jagielka,Everton,47,52,69,180.0,87.0,23.0
+119, J. McCarthy,Everton,72,68,67,180.0,72.0,23.0
+120, J. Milner,Liverpool,69,66,85,175.0,70.0,22.0
+121, A. Oxlade-Chamberlain,Liverpool,87,88,75,175.0,70.0,22.0
+122, L. Karius,Liverpool,51,50,20,188.0,75.0,23.0
+123, E. Can,Liverpool,69,73,79,183.0,82.0,23.0
+124, M. Carrick,Manchester United,43,44,78,188.0,74.0,23.0
+125, S. Romero,Manchester United,47,44,14,193.0,87.0,24.0
+126, M. Darmian,Manchester United,78,77,69,183.0,70.0,23.0
+127, D. Blind,Manchester United,63,58,68,180.0,72.0,23.0
+128, R. Bertrand,Southampton,79,79,59,178.0,85.0,22.0
+129, D. Tadić,Southampton,70,70,69,180.0,76.0,23.0
+130, E. Lamela,Tottenham Hotspur,78,74,80,180.0,80.0,23.0
+131, M. Antonio,West Ham United,82,87,76,178.0,80.0,22.0
+132, B. Foster,West Bromwich Albion,50,48,27,193.0,90.0,24.0
+133, S. Rondón,West Bromwich Albion,73,76,85,185.0,86.0,23.0
+134, R. Pereyra,Watford,78,78,66,183.0,77.0,23.0
+135, J. Defoe,Bournemouth,77,72,88,170.0,65.0,22.0
+136, L. Fabiański,Swansea City,50,47,14,190.0,83.0,24.0
+137, D. Ospina,Arsenal,34,34,35,183.0,80.0,23.0
+138, F. Coquelin,Arsenal,65,67,71,178.0,74.0,22.0
+139, W. Caballero,Chelsea,44,47,23,185.0,80.0,23.0
+140, V. Moses,Chelsea,84,83,75,178.0,79.0,22.0
+141, D. Drinkwater,Chelsea,67,69,77,178.0,70.0,22.0
+142, D. Zappacosta,Chelsea,78,85,74,183.0,70.0,23.0
+143, J. Stones,Manchester City,71,71,46,188.0,75.0,23.0
+144, M. Fellaini,Manchester United,50,50,75,193.0,85.0,24.0
+145, P. Jones,Manchester United,51,64,68,185.0,71.0,23.0
+146, L. Shaw,Manchester United,80,84,62,185.0,75.0,23.0
+147, V. Lindelöf,Manchester United,68,72,68,188.0,80.0,23.0
+148, F. Lejeune,Newcastle United,42,54,72,188.0,89.0,23.0
+149, M. Gabbiadini,Southampton,74,74,84,185.0,81.0,23.0
+150, Oriol Romeu,Southampton,63,52,60,183.0,83.0,23.0
+151, Cédric,Southampton,84,80,80,173.0,67.0,22.0
+152, S. Boufal,Southampton,83,81,71,170.0,60.0,22.0
+153, M. Vorm,Tottenham Hotspur,57,58,23,183.0,84.0,23.0
+154, P. Zabaleta,West Ham United,61,61,66,178.0,74.0,22.0
+155, José Fonte,West Ham United,44,43,29,188.0,81.0,23.0
+156, W. Reid,West Ham United,67,71,72,190.0,87.0,24.0
+157, A. Ayew,West Ham United,76,75,75,175.0,72.0,22.0
+158, A. Ogbonna,West Ham United,69,70,71,190.0,86.0,24.0
+159, Adrián,West Ham United,46,44,40,190.0,80.0,24.0
+160, G. Barry,West Bromwich Albion,30,33,77,183.0,78.0,23.0
+161, J. Evans,West Bromwich Albion,65,65,42,188.0,77.0,23.0
+162, C. Yacob,West Bromwich Albion,49,38,63,180.0,73.0,23.0
+163, Gomes,Watford,50,52,30,190.0,91.0,24.0
+164, S. Prödl,Watford,38,36,47,196.0,97.0,24.0
+165, Y. Cabaye,Crystal Palace,62,63,78,175.0,70.0,22.0
+166, R. Shawcross,Stoke City,46,51,44,190.0,76.0,24.0
+167, B. Martins Indi,Stoke City,54,59,56,185.0,76.0,23.0
+168, K. Zouma L,Stoke City,63,71,56,190.0,96.0,24.0
+169, W. Bony,Swansea City,63,68,83,183.0,88.0,23.0
+170, F. Fernández,Swansea City,48,48,27,188.0,83.0,23.0
+171, Y. Bolasie,Everton,86,87,81,188.0,84.0,23.0
+172, R. Klavan,Liverpool,54,59,67,188.0,85.0,23.0
+173, E. Mangala,Manchester City,67,73,67,188.0,84.0,23.0
+174, Danilo,Manchester City,75,80,85,183.0,78.0,23.0
+175, B. Mendy,Manchester City,79,84,68,185.0,85.0,23.0
+176, J. Lingard,Manchester United,84,83,76,175.0,62.0,22.0
+177, C. Austin,Southampton,64,66,83,188.0,84.0,23.0
+178, J. Ward-Prowse,Southampton,67,65,74,173.0,66.0,22.0
+179, Llorente,Tottenham Hotspur,45,52,79,190.0,92.0,24.0
+180, K. Trippier,Tottenham Hotspur,78,77,77,178.0,72.0,22.0
+181, B. Davies,Tottenham Hotspur,78,74,62,183.0,76.0,23.0
+182, A. Carroll,West Ham United,60,64,85,193.0,79.0,24.0
+183, R. Huth,Leicester City,29,30,75,190.0,99.0,24.0
+184, K. Gibbs,West Bromwich Albion,77,80,67,178.0,70.0,22.0
+185, N. Chadli,West Bromwich Albion,74,78,81,188.0,80.0,23.0
+186, J. Holebas,Watford,78,81,85,185.0,81.0,23.0
+187, T. Deeney,Watford,64,65,86,183.0,90.0,23.0
+188, A. Doucouré,Watford,62,69,75,183.0,69.0,23.0
+189, J. Cork,Burnley,61,58,70,185.0,69.0,23.0
+190, S. Defour,Burnley,70,68,76,175.0,72.0,22.0
+191, B. Mee,Burnley,66,66,60,180.0,74.0,23.0
+192, S. Dann,Crystal Palace,44,45,52,188.0,78.0,23.0
+193, A. Townsend,Crystal Palace,86,84,82,180.0,73.0,23.0
+194, I. Afellay,Stoke City,76,74,75,180.0,76.0,23.0
+195, K. Wimmer,Stoke City,54,60,40,188.0,85.0,23.0
+196, J. Izquierdo,Brighton amp Hove Albion,93,93,80,170.0,75.0,22.0
+197, Ki Sung Yueng,Swansea City,61,68,83,185.0,79.0,23.0
+198, M. Debuchy,Arsenal,71,68,74,178.0,76.0,22.0
+199, M. Elneny,Arsenal,58,61,71,180.0,70.0,23.0
+200, A. Baba,Chelsea,81,83,59,178.0,70.0,22.0
+201, A. Lennon,Everton,84,82,64,165.0,63.0,21.0
+202, R. Funes Mori,Everton,66,70,69,185.0,78.0,23.0
+203, J. Pickford,Everton,48,41,31,185.0,77.0,23.0
+204, Sandro,Everton,76,75,80,175.0,71.0,22.0
+205, F. Delph,Manchester City,76,72,80,175.0,60.0,22.0
+206, H. Saivet,Newcastle United,75,74,75,175.0,73.0,22.0
+207, J. Shelvey,Newcastle United,61,62,85,183.0,80.0,23.0
+208, S. Davis,Southampton,65,63,63,173.0,70.0,22.0
+209, F. Forster,Southampton,32,35,36,201.0,93.0,25.0
+210, N. Redmond,Southampton,89,86,71,173.0,69.0,22.0
+211, M. Lemina,Southampton,78,78,78,183.0,85.0,23.0
+212, W. Hoedt,Southampton,66,66,75,188.0,77.0,23.0
+213, M. Sissoko,Tottenham Hotspur,75,78,85,188.0,91.0,23.0
+214, G. Nkoudou,Tottenham Hotspur,92,91,72,175.0,73.0,22.0
+215, C. Kouyaté,West Ham United,71,77,74,188.0,83.0,23.0
+216, Pedro Obiang,West Ham United,67,69,74,185.0,75.0,23.0
+217, W. Morgan,Leicester City,33,41,52,185.0,101.0,23.0
+218, M. Albrighton,Leicester City,79,79,72,175.0,74.0,22.0
+219, A. Dragović L,Leicester City,69,74,69,183.0,76.0,23.0
+220, S. Okazaki,Leicester City,76,73,77,173.0,78.0,22.0
+221, H. Maguire,Leicester City,40,51,54,193.0,100.0,24.0
+222, O. Ndidi,Leicester City,72,75,78,183.0,74.0,23.0
+223, G. McAuley,West Bromwich Albion,36,31,44,190.0,89.0,24.0
+224, M. Phillips,West Bromwich Albion,88,86,80,183.0,75.0,23.0
+225, A. Nyom,West Bromwich Albion,72,78,74,188.0,81.0,23.0
+226, M. Zárate,Watford,79,75,80,175.0,76.0,22.0
+227, S. Okaka,Watford,67,77,81,185.0,90.0,23.0
+228, D. Janmaat,Watford,72,75,76,185.0,80.0,23.0
+229, A. Gray,Watford,90,89,80,180.0,78.0,23.0
+230, A. Carrillo L,Watford,86,83,76,180.0,78.0,23.0
+231, L. Milivojević,Crystal Palace,61,63,75,185.0,80.0,23.0
+232, E. Choupo-Moting,Stoke City,76,78,77,190.0,91.0,24.0
+233, J. Allen,Stoke City,65,60,63,168.0,62.0,21.0
+234, M. Diouf,Stoke City,81,85,80,185.0,79.0,23.0
+235, Jesé L,Stoke City,87,80,73,178.0,72.0,22.0
+236, T. Krul,Brighton amp Hove Albion,50,35,23,188.0,74.0,23.0
+237, D. Pröpper,Brighton amp Hove Albion,65,68,82,185.0,79.0,23.0
+238, M. Ryan,Brighton amp Hove Albion,53,52,35,183.0,82.0,23.0
+239, A. Mooy,Huddersfield Town,67,70,71,175.0,78.0,22.0
+240, A. Boruc,Bournemouth,37,39,21,193.0,87.0,24.0
+241, H. Arter,Bournemouth,67,67,76,175.0,70.0,22.0
+242, J. King,Bournemouth,87,92,78,180.0,74.0,23.0
+243, S. Cook,Bournemouth,60,53,47,185.0,82.0,23.0
+244, L. Britton,Swansea City,47,46,51,168.0,65.0,21.0
+245, L. Fer,Swansea City,70,72,85,188.0,90.0,23.0
+246, C. Musonda,Chelsea,89,86,70,173.0,66.0,22.0
+247, M. Bešić,Everton,65,71,55,180.0,80.0,23.0
+248, D. Ings,Liverpool,83,82,74,178.0,73.0,22.0
+249, Alberto Moreno,Liverpool,87,88,80,170.0,65.0,22.0
+250, L. Marković,Liverpool,89,91,65,175.0,65.0,22.0
+251, Jesús Gámez,Newcastle United,60,71,84,178.0,75.0,22.0
+252, C. Clark,Newcastle United,56,66,71,185.0,88.0,23.0
+253, C. Atsu,Newcastle United,94,90,72,165.0,65.0,21.0
+254, C. Mbemba,Newcastle United,72,76,79,183.0,82.0,23.0
+255, Manquillo,Newcastle United,78,74,69,178.0,76.0,22.0
+256, S. Long,Southampton,84,82,76,178.0,70.0,22.0
+257, J. Collins,West Ham United,30,32,70,188.0,83.0,23.0
+258, M. Noble,West Ham United,45,47,74,180.0,76.0,23.0
+259, A. Cresswell,West Ham United,75,76,71,170.0,66.0,22.0
+260, C. Fuchs,Leicester City,63,62,83,188.0,89.0,23.0
+261, A. Musa,Leicester City,95,92,78,170.0,66.0,22.0
+262, J. Morrison,West Bromwich Albion,66,65,80,178.0,64.0,22.0
+263, J. Rodriguez,West Bromwich Albion,76,78,74,185.0,80.0,23.0
+264, E. Capoue,Watford,62,55,76,190.0,87.0,24.0
+265, T. Cleverley,Watford,64,70,74,175.0,67.0,22.0
+266, S. Vokes,Burnley,57,59,80,188.0,90.0,23.0
+267, M. Lowton,Burnley,76,75,72,180.0,78.0,23.0
+268, R. Brady,Burnley,83,79,77,175.0,69.0,22.0
+269, J. Tomkins,Crystal Palace,50,52,40,193.0,74.0,24.0
+270, T. Fosu-Mensah L,Crystal Palace,82,85,79,190.0,78.0,24.0
+271, D. Fletcher,Stoke City,53,46,77,183.0,83.0,23.0
+272, G. Cameron,Stoke City,62,63,65,190.0,84.0,24.0
+273, S. Berahino,Stoke City,82,77,81,180.0,82.0,23.0
+274, P. Groß,Brighton amp Hove Albion,65,67,74,180.0,76.0,23.0
+275, A. Knockaert,Brighton amp Hove Albion,78,73,73,173.0,69.0,22.0
+276, S. Mounié,Huddersfield Town,75,74,78,190.0,80.0,24.0
+277, S. Francis,Bournemouth,62,67,64,183.0,90.0,23.0
+278, J. Ayew,Swansea City,75,77,76,183.0,81.0,23.0
+279, Renato Sanches L,Swansea City,79,78,85,175.0,70.0,22.0
+280, C. Chambers,Arsenal,61,67,52,183.0,66.0,23.0
+281, Eduardo,Chelsea,46,44,38,188.0,88.0,23.0
+282, M. Stekelenburg,Everton,35,45,13,198.0,92.0,24.0
+283, O. Niasse,Everton,81,74,76,183.0,82.0,23.0
+284, A. Robertson,Liverpool,78,82,67,178.0,64.0,22.0
+285, A. Young,Manchester United,79,76,75,175.0,65.0,22.0
+286, Joselu,Newcastle United,61,63,77,193.0,80.0,24.0
+287, M. Ritchie,Newcastle United,77,74,76,173.0,76.0,22.0
+288, D. Gayle,Newcastle United,85,82,73,175.0,78.0,22.0
+289, A. Mitrović,Newcastle United,52,64,80,188.0,90.0,23.0
+290, A. McCarthy,Southampton,58,56,20,193.0,79.0,24.0
+291, M. Yoshida,Southampton,61,62,50,188.0,78.0,23.0
+292, P. Højbjerg,Southampton,65,64,78,185.0,84.0,23.0
+293, D. Sakho,West Ham United,72,73,72,183.0,79.0,23.0
+294, A. Masuaku,West Ham United,87,86,77,178.0,70.0,22.0
+295, D. Simpson,Leicester City,70,68,37,175.0,80.0,22.0
+296, Y. Benalouane,Leicester City,64,64,68,185.0,86.0,23.0
+297, D. Amartey,Leicester City,70,76,83,185.0,79.0,23.0
+298, K. Iheanacho,Leicester City,84,84,76,185.0,82.0,23.0
+299, C. Brunt,West Bromwich Albion,63,56,86,185.0,84.0,23.0
+300, J. Livermore,West Bromwich Albion,65,64,72,180.0,76.0,23.0
+301, C. Dawson,West Bromwich Albion,62,67,57,188.0,85.0,23.0
+302, Y. Kaboul,Watford,46,57,82,193.0,87.0,24.0
+303, M. Britos,Watford,48,51,30,190.0,85.0,24.0
+304, Kiko Femenía,Watford,75,79,56,175.0,61.0,22.0
+305, C. Kabasele,Watford,71,74,57,188.0,84.0,23.0
+306, M. Zeegelaar,Watford,75,81,76,185.0,82.0,23.0
+307, N. Chalobah,Watford,69,65,75,185.0,76.0,23.0
+308, W. Hughes,Watford,68,65,58,185.0,74.0,23.0
+309, J. Walters,Burnley,62,64,75,183.0,79.0,23.0
+310, S. Ward,Burnley,66,67,63,183.0,82.0,23.0
+311, C. Wood,Burnley,70,72,80,190.0,95.0,24.0
+312, J. Hendrick,Burnley,74,70,71,185.0,79.0,23.0
+313, J. Tarkowski,Burnley,63,65,63,190.0,81.0,24.0
+314, J. McArthur,Crystal Palace,65,60,65,178.0,66.0,22.0
+315, P. van Aanholt,Crystal Palace,87,86,70,175.0,67.0,22.0
+316, G. Johnson,Stoke City,74,69,79,183.0,78.0,23.0
+317, E. Pieters,Stoke City,63,69,51,183.0,84.0,23.0
+318, E. Schelotto,Brighton amp Hove Albion,74,82,75,188.0,76.0,23.0
+319, L. Dunk,Brighton amp Hove Albion,45,54,70,193.0,88.0,24.0
+320, J. Lössl L,Huddersfield Town,29,34,22,196.0,88.0,24.0
+321, M. Jørgensen,Huddersfield Town,66,71,61,190.0,85.0,24.0
+322, C. Daniels,Bournemouth,77,75,68,178.0,75.0,22.0
+323, A. Surman,Bournemouth,62,60,67,178.0,73.0,22.0
+324, C. Wilson,Bournemouth,92,89,69,180.0,66.0,23.0
+325, N. Aké,Bournemouth,75,76,63,180.0,75.0,23.0
+326, W. Routledge,Swansea City,71,72,68,170.0,77.0,22.0
+327, N. Dyer,Swansea City,85,82,75,168.0,62.0,21.0
+328, M. Olsson,Swansea City,79,84,75,178.0,81.0,22.0
+329, K. Naughton,Swansea City,74,74,68,180.0,73.0,23.0
+330, L. Narsingh,Swansea City,91,91,65,178.0,77.0,22.0
+331, A. Iwobi,Arsenal,79,78,67,180.0,75.0,23.0
+332, Joel Robles,Everton,49,52,36,196.0,90.0,24.0
+333, J. Lascelles,Newcastle United,62,62,40,188.0,89.0,23.0
+334, Ayoze Pérez,Newcastle United,77,74,63,178.0,72.0,22.0
+335, Merino L,Newcastle United,62,61,63,185.0,83.0,23.0
+336, L. Ulloa,Leicester City,44,53,76,188.0,89.0,23.0
+337, J. McClean,West Bromwich Albion,75,79,69,180.0,70.0,23.0
+338, B. Watson,Watford,57,45,73,180.0,80.0,23.0
+339, B. Dja Djédjé,Watford,76,79,72,168.0,75.0,21.0
+340, M. Wagué L,Watford,51,64,44,190.0,87.0,24.0
+341, A. Barnes,Burnley,68,67,76,185.0,76.0,23.0
+342, J. Puncheon,Crystal Palace,67,66,70,173.0,66.0,22.0
+343, W. Hennessey,Crystal Palace,40,41,34,198.0,90.0,24.0
+344, J. Ward,Crystal Palace,64,65,68,188.0,83.0,23.0
+345, J. Riedewald,Crystal Palace,73,74,69,183.0,79.0,23.0
+346, P. Crouch,Stoke City,31,34,74,201.0,75.0,25.0
+347, C. Adam,Stoke City,48,39,85,185.0,83.0,23.0
+348, R. Sobhi,Stoke City,77,74,62,183.0,75.0,23.0
+349, D. Stephens,Brighton amp Hove Albion,63,63,67,185.0,71.0,23.0
+350, S. Duffy,Brighton amp Hove Albion,49,52,55,193.0,76.0,24.0
+351, J. Hogg,Huddersfield Town,73,68,61,175.0,73.0,22.0
+352, T. Ince,Huddersfield Town,81,77,70,178.0,66.0,22.0
+353, L. Depoitre,Huddersfield Town,50,64,77,190.0,91.0,24.0
+354, B. Afobe,Bournemouth,82,79,68,183.0,78.0,23.0
+355, Àngel Rangel,Swansea City,53,47,66,178.0,82.0,22.0
+356, T. Davies,Everton,74,73,70,180.0,70.0,23.0
+357, A. Tuanzebe,Manchester United,74,76,46,185.0,75.0,23.0
+358, M. Diamé,Newcastle United,71,75,85,183.0,86.0,23.0
+359, J. Colback,Newcastle United,65,61,71,178.0,77.0,22.0
+360, D. Yedlin,Newcastle United,93,93,73,173.0,75.0,22.0
+361, J. Pied,Southampton,73,70,83,173.0,69.0,22.0
+362, H. Winks,Tottenham Hotspur,75,70,63,175.0,74.0,22.0
+363, S. Byram,West Ham United,75,75,66,180.0,72.0,23.0
+364, D. Gray,Leicester City,90,90,74,180.0,74.0,23.0
+365, B. Myhill,West Bromwich Albion,41,46,27,190.0,92.0,24.0
+366, A. Hegazy,West Bromwich Albion,39,49,27,196.0,83.0,24.0
+367, C. Cathcart,Watford,50,61,56,190.0,83.0,24.0
+368, I. Success,Watford,80,88,80,183.0,90.0,23.0
+369, Richarlison,Watford,83,79,74,180.0,70.0,23.0
+370, S. Arfield,Burnley,70,68,69,178.0,70.0,22.0
+371, A. Westwood,Burnley,68,63,62,170.0,67.0,22.0
+372, J. Guðmundsson,Burnley,80,77,84,178.0,77.0,22.0
+373, C. Taylor,Burnley,77,73,63,175.0,70.0,22.0
+374, D. Delaney,Crystal Palace,30,31,49,190.0,89.0,24.0
+375, M. Kelly,Crystal Palace,56,60,61,190.0,77.0,24.0
+376, P. Souaré,Crystal Palace,75,73,65,178.0,66.0,22.0
+377, L. Grant,Stoke City,47,40,24,193.0,83.0,24.0
+378, Bruno Saltor,Brighton amp Hove Albion,65,59,65,178.0,75.0,22.0
+379, M. Suttner,Brighton amp Hove Albion,74,74,75,178.0,73.0,22.0
+380, G. Murray,Brighton amp Hove Albion,47,51,74,185.0,84.0,23.0
+381, B. Kayal,Brighton amp Hove Albion,72,70,72,178.0,74.0,22.0
+382, R. Green,Huddersfield Town,50,34,22,190.0,93.0,24.0
+383, C. Schindler,Huddersfield Town,63,67,52,188.0,77.0,23.0
+384, C. Löwe,Huddersfield Town,80,79,72,175.0,68.0,22.0
+385, A. Federici,Bournemouth,45,48,17,188.0,90.0,23.0
+386, M. Pugh,Bournemouth,74,69,67,180.0,72.0,23.0
+387, D. Gosling,Bournemouth,64,60,71,183.0,79.0,23.0
+388, J. Stanislas,Bournemouth,77,83,70,183.0,76.0,23.0
+389, A. Smith,Bournemouth,77,75,72,180.0,78.0,23.0
+390, R. Fraser,Bournemouth,89,88,60,163.0,60.0,21.0
+391, K. Bartley,Swansea City,58,53,36,193.0,94.0,24.0
+392, K. Nordfeldt,Swansea City,55,52,19,190.0,85.0,24.0
+393, T. Carroll,Swansea City,67,65,59,178.0,66.0,22.0
+394, M. van der Hoorn,Swansea City,34,42,73,190.0,83.0,24.0
+395, A. Mawson,Swansea City,53,53,53,188.0,87.0,23.0
+396, T. Abraham L,Swansea City,80,80,75,190.0,82.0,24.0
+397, R. Holding,Arsenal,61,63,48,188.0,75.0,23.0
+398, Kenedy,Chelsea,83,78,75,183.0,77.0,23.0
+399, O. Zinchenko,Manchester City,75,70,69,175.0,64.0,22.0
+400, R. Aarons,Newcastle United,85,83,70,178.0,76.0,22.0
+401, E. Jakupović,Leicester City,46,47,25,190.0,85.0,24.0
+402, M. James,Leicester City,65,54,72,180.0,86.0,23.0
+403, A. King,Leicester City,66,62,72,183.0,79.0,23.0
+404, A. Mariappa,Watford,68,68,47,180.0,78.0,23.0
+405, D. Marney,Burnley,68,66,74,183.0,72.0,23.0
+406, P. Bardsley,Burnley,66,58,83,180.0,74.0,23.0
+407, N. Wells,Burnley,85,82,69,170.0,69.0,22.0
+408, B. Sako,Crystal Palace,73,74,79,183.0,90.0,23.0
+409, C. Wickham,Crystal Palace,63,68,76,190.0,90.0,24.0
+410, J. Schlupp,Crystal Palace,84,89,74,178.0,72.0,22.0
+411, S. Ireland,Stoke City,57,51,62,173.0,67.0,22.0
+412, G. Bong,Brighton amp Hove Albion,69,70,58,183.0,74.0,23.0
+413, T. Hemed,Brighton amp Hove Albion,53,59,76,185.0,80.0,23.0
+414, S. March,Brighton amp Hove Albion,84,83,74,180.0,88.0,23.0
+415, E. Kachunga,Huddersfield Town,85,83,72,178.0,74.0,22.0
+416, T. Smith,Huddersfield Town,76,73,29,185.0,84.0,23.0
+417, F. Hadergjonaj L,Huddersfield Town,75,77,59,183.0,73.0,23.0
+418, J. Ibe,Bournemouth,85,85,79,175.0,81.0,22.0
+419, E. Mulder,Swansea City,35,40,39,193.0,88.0,24.0
+420, S. Clucas,Swansea City,68,74,67,188.0,74.0,23.0
+421, C. Martina,Everton,69,72,61,185.0,77.0,23.0
+422, M. Grujić,Liverpool,63,71,75,190.0,82.0,24.0
+423, Joel Pereira,Manchester United,43,43,12,188.0,70.0,23.0
+424, R. Elliot,Newcastle United,47,48,11,190.0,94.0,24.0
+425, P. Dummett,Newcastle United,66,65,40,183.0,77.0,23.0
+426, I. Hayden,Newcastle United,59,64,58,185.0,79.0,23.0
+427, J. Stephens,Southampton,57,64,49,185.0,75.0,23.0
+428, J. Speroni,Crystal Palace,42,43,20,185.0,80.0,23.0
+429, Lee Chung Yong,Crystal Palace,73,71,65,180.0,68.0,23.0
+430, S. Sidwell,Brighton amp Hove Albion,53,40,76,178.0,80.0,22.0
+431, L. Rosenior,Brighton amp Hove Albion,69,69,64,178.0,77.0,22.0
+432, U. Hünemeier,Brighton amp Hove Albion,53,60,65,188.0,84.0,23.0
+433, I. Brown,Brighton amp Hove Albion,74,75,64,183.0,70.0,23.0
+434, S. Malone,Huddersfield Town,75,77,69,188.0,75.0,23.0
+435, D. Williams,Huddersfield Town,73,75,80,183.0,80.0,23.0
+436, K. Palmer L,Huddersfield Town,78,75,67,175.0,68.0,22.0
+437, T. Mings,Bournemouth,73,75,41,196.0,77.0,24.0
+438, L. Cook,Bournemouth,77,70,60,175.0,71.0,22.0
+439, L. Garbutt,Everton,71,70,58,178.0,73.0,22.0
+440, A. Bogdán,Liverpool,52,56,16,193.0,92.0,24.0
+441, J. Flanagan,Liverpool,68,62,35,180.0,79.0,23.0
+442, D. Ward,Liverpool,47,42,25,190.0,88.0,24.0
+443, J. Gomez,Liverpool,75,78,41,188.0,77.0,23.0
+444, D. Solanke,Liverpool,76,74,68,188.0,80.0,23.0
+445, K. Darlow,Newcastle United,59,52,13,190.0,88.0,24.0
+446, M. Haïdara,Newcastle United,76,70,79,180.0,76.0,23.0
+447, J. Murphy,Newcastle United,83,82,73,178.0,74.0,22.0
+448, F. Gardoş,Southampton,43,48,37,193.0,84.0,24.0
+449, P. Gazzaniga,Tottenham Hotspur,63,65,49,196.0,90.0,24.0
+450, B. Chilwell,Leicester City,77,75,39,178.0,77.0,22.0
+451, O. Burke,West Bromwich Albion,85,94,70,188.0,74.0,23.0
+452, K. Long,Burnley,66,61,56,188.0,82.0,23.0
+453, R. Loftus-Cheek,Crystal Palace,65,69,51,190.0,83.0,24.0
+454, S. Baldock,Brighton amp Hove Albion,79,81,69,170.0,67.0,22.0
+455, J. Murphy,Brighton amp Hove Albion,80,79,66,178.0,72.0,22.0
+456, C. Goldson,Brighton amp Hove Albion,67,68,42,190.0,85.0,24.0
+457, M. Hefele,Huddersfield Town,48,55,54,193.0,91.0,24.0
+458, J. Fulton,Swansea City,67,64,67,183.0,78.0,23.0
+459, S. Tarashaj,Everton,77,76,67,175.0,76.0,22.0
+460, C. Brannagan,Liverpool,64,66,74,180.0,71.0,23.0
+461, T. Alexander-Arnold,Liverpool,81,81,62,175.0,69.0,22.0
+462, J. Wilson,Manchester United,74,76,67,183.0,78.0,23.0
+463, M. Targett,Southampton,72,78,34,183.0,70.0,23.0
+464, E. Fernandes,West Ham United,78,81,73,190.0,77.0,24.0
+465, T. Hoban,Watford,53,54,48,188.0,83.0,23.0
+466, N. Pope,Burnley,50,45,17,193.0,76.0,24.0
+467, J. Mutch,Crystal Palace,63,65,74,183.0,81.0,23.0
+468, R. van La Parra,Huddersfield Town,83,85,67,180.0,72.0,23.0
+469, L. Mousset,Bournemouth,78,81,76,183.0,80.0,23.0
+470, J. Bednarek,Southampton,63,69,25,188.0,77.0,23.0
+471, J. Foyth,Tottenham Hotspur,74,72,56,188.0,69.0,23.0
+472, B. Hamer,Leicester City,45,45,23,193.0,91.0,24.0
+473, A. Lindegaard,Burnley,47,52,28,193.0,79.0,24.0
+474, S. Kaikai,Crystal Palace,82,82,65,183.0,70.0,23.0
+475, N. Mäenpää,Brighton amp Hove Albion,31,38,24,190.0,86.0,24.0
+476, J. Skalák,Brighton amp Hove Albion,71,66,67,178.0,76.0,22.0
+477, S. Ahannach,Brighton amp Hove Albion,80,71,60,173.0,66.0,22.0
+478, M. Cranie,Huddersfield Town,67,69,65,183.0,78.0,23.0
+479, C. Quaner,Huddersfield Town,71,78,70,190.0,79.0,24.0
+480, D. Calvert-Lewin,Everton,83,82,65,188.0,71.0,23.0
+481, M. Holgate,Everton,75,76,51,183.0,63.0,23.0
+482, N. Vlašić,Everton,79,74,66,178.0,72.0,22.0
+483, S. McQueen,Southampton,74,76,48,180.0,70.0,23.0
+484, J. Sims,Southampton,86,80,64,168.0,65.0,21.0
+485, H. Robson-Kanu,West Bromwich Albion,70,71,70,183.0,83.0,23.0
+486, P. Billing,Huddersfield Town,58,65,74,198.0,80.0,24.0
+487, R. Wiggins,Bournemouth,61,58,47,173.0,72.0,22.0
+488, E. Hyndman,Bournemouth,74,64,60,170.0,61.0,22.0
+489, C. Mahoney,Bournemouth,75,77,59,175.0,67.0,22.0
+490, A. Maitland-Niles,Arsenal,80,85,58,178.0,71.0,22.0
+491, O. Ejaria,Liverpool,71,74,67,183.0,75.0,23.0
+492, Brahim Díaz,Manchester City,78,75,69,170.0,68.0,22.0
+493, J. Riley,Manchester United,78,77,64,183.0,71.0,23.0
+494, S. Taylor,Southampton,51,52,25,198.0,85.0,24.0
+495, D. Henry,West Ham United,66,60,65,188.0,82.0,23.0
+496, S. Hakšabanovič,West Ham United,78,73,68,175.0,70.0,22.0
+497, H. Choudhury,Leicester City,69,71,69,178.0,64.0,22.0
+498, B. Mason,Watford,80,83,44,173.0,70.0,22.0
+499, F. Ulvestad,Burnley,69,65,66,183.0,79.0,23.0
+500, A. Matějů,Brighton amp Hove Albion,75,72,56,183.0,79.0,23.0
+501, D. Whitehead,Huddersfield Town,41,34,67,183.0,77.0,23.0
+502, G. Zelalem,Arsenal,69,61,51,180.0,70.0,23.0
+503, B. Woodburn,Liverpool,82,73,66,175.0,72.0,22.0
+504, P. Foden,Manchester City,78,70,65,170.0,59.0,22.0
+505, K. Walker-Peters,Tottenham Hotspur,81,77,31,175.0,64.0,22.0
+506, M. Edwards,Tottenham Hotspur,78,73,56,175.0,61.0,22.0
+507, A. Legzdins,Burnley,35,30,20,190.0,78.0,24.0
+508, H. Bjørdal,Brighton amp Hove Albion,69,67,60,175.0,80.0,22.0
+509, J. Lolley,Huddersfield Town,79,72,57,178.0,72.0,22.0
+510, B. Smith,Bournemouth,81,85,40,178.0,70.0,22.0
+511, C. Akpom,Arsenal,86,84,56,183.0,70.0,23.0
+512, A. Lookman,Everton,85,83,70,175.0,78.0,22.0
+513, S. Facey,Manchester City,67,72,26,178.0,64.0,22.0
+514, S. Bytyqi,Manchester City,64,66,63,185.0,82.0,23.0
+515, D. Mitchell,Manchester United,73,73,61,175.0,71.0,22.0
+516, A. Gomes,Manchester United,75,70,61,168.0,52.0,21.0
+517, C. Good,Newcastle United,58,53,39,188.0,85.0,23.0
+518, J. Hesketh,Southampton,66,65,53,168.0,70.0,21.0
+519, M. Samuelsen,West Ham United,71,76,56,188.0,72.0,23.0
+520, S. Field,West Bromwich Albion,65,56,68,180.0,73.0,23.0
+521, J. Haugaard,Stoke City,47,45,22,198.0,87.0,24.0
+522, K. Gorré,Swansea City,71,65,72,178.0,71.0,22.0
+523, T. Moore,Arsenal,76,66,30,173.0,66.0,22.0
+524, J. Reine-Adelaïde,Arsenal,79,72,63,183.0,75.0,23.0
+525, J. Clarke-Salter,Chelsea,62,64,44,188.0,70.0,23.0
+526, T. Adarabioyo,Manchester City,52,58,31,196.0,80.0,24.0
+527, A. Muric,Manchester City,44,46,21,198.0,81.0,24.0
+528, S. McTominay,Manchester United,61,66,64,193.0,88.0,24.0
+529, C. Gribbin,Manchester United,70,69,65,183.0,72.0,23.0
+530, Z. Dearnley,Manchester United,69,68,66,175.0,66.0,22.0
+531, F. Woodman,Newcastle United,43,47,24,188.0,83.0,23.0
+532, G. Thomas,Leicester City,73,78,60,173.0,76.0,22.0
+533, O. McBurnie,Swansea City,66,68,70,190.0,77.0,24.0
+534, K. Bielik,Arsenal,51,50,57,188.0,78.0,23.0
+535, D. Sterling,Chelsea,73,75,53,185.0,81.0,23.0
+536, L. Jones,Liverpool,46,48,44,190.0,75.0,24.0
+537, C. Humphreys-Grant,Manchester City,68,67,44,188.0,80.0,23.0
+538, D. Faupala,Manchester City,70,70,70,185.0,72.0,23.0
+539, D. Barlaser,Newcastle United,54,57,66,183.0,68.0,23.0
+540, M. Gillesphey,Newcastle United,52,51,46,180.0,70.0,23.0
+541, J. Sterry,Newcastle United,70,70,37,175.0,76.0,22.0
+542, J. Flannigan,Southampton,57,65,65,180.0,71.0,23.0
+543, Toni Martínez,West Ham United,73,71,56,180.0,70.0,23.0
+544, Domingos Quina,West Ham United,74,72,54,173.0,65.0,22.0
+545, D. Iversen,Leicester City,40,44,23,193.0,80.0,24.0
+546, D. Bachmann,Watford,50,37,21,190.0,81.0,24.0
+547, F. Ladapo,Crystal Palace,78,77,63,183.0,79.0,23.0
+548, R. Hill,Stoke City,65,61,68,178.0,64.0,22.0
+549, J. Gorenc Stanković,Huddersfield Town,52,53,53,190.0,78.0,24.0
+550, A. Sabiri,Huddersfield Town,74,78,55,185.0,80.0,23.0
+551, M. Butcher,Bournemouth,55,55,54,188.0,83.0,23.0
+552, J. Sheehan,Swansea City,70,68,57,175.0,75.0,22.0
+553, G. Zabret,Swansea City,48,42,22,188.0,80.0,23.0
+554, M. Taylor-Crossdale,Chelsea,68,72,70,185.0,77.0,23.0
+555, J. Kenny,Everton,68,73,44,175.0,67.0,22.0
+556, H. Wilson,Liverpool,77,76,60,173.0,70.0,22.0
+557, T. Oakley-Boothe,Tottenham Hotspur,68,74,44,178.0,68.0,22.0
+558, J. Sinclair,Watford,76,74,59,180.0,75.0,23.0
+559, J. Ngoy,Stoke City,77,78,56,185.0,64.0,23.0
+560, D. Jarvis,Stoke City,60,61,70,178.0,64.0,22.0
+561, T. Edwards,Stoke City,69,67,37,175.0,76.0,22.0
+562, A. Ramsdale,Bournemouth,33,36,35,188.0,77.0,23.0
+563, C. Harries,Swansea City,53,59,38,185.0,73.0,23.0
+564, K. Scott,Chelsea,61,65,54,173.0,60.0,22.0
+565, A. Evans,Everton,65,67,63,170.0,68.0,22.0
+566, A. Jones,Southampton,54,57,48,180.0,70.0,23.0
+567, S. Harrison,Tottenham Hotspur,70,67,57,183.0,68.0,23.0
+568, L. Amos,Tottenham Hotspur,58,60,57,178.0,72.0,22.0
+569, M. Browne,West Ham United,77,75,56,178.0,74.0,22.0
+570, D. Rice,West Ham United,61,65,46,188.0,76.0,23.0
+571, N. Holland,West Ham United,79,77,56,178.0,65.0,22.0
+572, A. Bradley,West Bromwich Albion,66,62,62,178.0,64.0,22.0
+573, D. Meredith,West Bromwich Albion,64,62,38,173.0,64.0,22.0
+574, M. Folivi,Watford,66,68,59,175.0,79.0,22.0
+575, O. Shenton,Stoke City,64,50,64,175.0,77.0,22.0
+576, E. Lecygne,Stoke City,51,64,54,180.0,67.0,23.0
+577, D. Gyollai,Stoke City,45,45,20,193.0,91.0,24.0
+578, J. Tymon,Stoke City,65,68,48,178.0,74.0,22.0
+579, T. Verlinden,Stoke City,64,66,69,173.0,65.0,22.0
+580, J. Coleman,Huddersfield Town,40,49,22,198.0,82.0,24.0
+581, J. Simpson,Bournemouth,52,55,43,178.0,83.0,22.0
+582, R. Nelson,Arsenal,84,79,65,175.0,70.0,22.0
+583, T. Bola,Arsenal,59,55,41,180.0,80.0,23.0
+584, E. Nketiah,Arsenal,77,75,48,178.0,70.0,22.0
+585, J. Maddox,Chelsea,70,69,58,178.0,72.0,22.0
+586, G. McEachran,Chelsea,64,62,47,175.0,65.0,22.0
+587, W. Patching,Manchester City,68,66,68,185.0,70.0,23.0
+588, K. Cameron,Newcastle United,52,47,47,190.0,76.0,24.0
+589, V. Fernandez,Newcastle United,64,61,71,170.0,70.0,22.0
+590, T. Johnson,Southampton,72,69,55,175.0,65.0,22.0
+591, Y. Valery,Southampton,66,56,30,180.0,70.0,23.0
+592, D. Johnson,Leicester City,69,69,45,185.0,80.0,23.0
+593, L. Dreher,Crystal Palace,62,69,56,183.0,77.0,23.0
+594, H. Souttar,Stoke City,35,35,33,201.0,79.0,25.0
+595, C. Jordan,Bournemouth,55,62,41,185.0,80.0,23.0
+596, A. King,Swansea City,65,67,66,180.0,75.0,23.0
+597, T. Reid,Swansea City,72,74,32,185.0,83.0,23.0
+598, J. Castillo,Chelsea,73,75,50,180.0,76.0,23.0
+599, M. Barnes,Southampton,67,65,56,185.0,72.0,23.0
+600, W. Wood,Southampton,66,68,32,175.0,67.0,22.0
+601, C. Maghoma,Tottenham Hotspur,51,53,50,196.0,88.0,24.0
+602, A. Georgiou,Tottenham Hotspur,73,71,45,178.0,73.0,22.0
+603, G. Diangana,West Ham United,74,77,50,180.0,73.0,23.0
+604, D. Kemp,West Ham United,75,70,44,168.0,63.0,21.0
+605, J. Debayo,Leicester City,66,71,43,183.0,68.0,23.0
+606, A. Muskwe,Leicester City,65,69,56,183.0,71.0,23.0
+607, L. Ndukwu,Leicester City,75,74,54,178.0,72.0,22.0
+608, K. Jameson,West Bromwich Albion,56,53,43,183.0,79.0,23.0
+609, M. Melbourne,West Bromwich Albion,64,71,31,178.0,65.0,22.0
+610, T. Morrison,West Bromwich Albion,78,73,34,180.0,79.0,23.0
+611, J. Tilley,Brighton amp Hove Albion,71,67,60,170.0,66.0,22.0
+612, J. Molumby,Brighton amp Hove Albion,57,61,59,178.0,64.0,22.0
+613, K. O'Connell,Bournemouth,66,67,55,175.0,64.0,22.0
+614, T. Cordner,Bournemouth,56,55,43,180.0,75.0,23.0
+615, J. Rodon,Swansea City,62,49,43,190.0,76.0,24.0
+616, R. Blair,Swansea City,56,55,66,185.0,76.0,23.0
+617, E. Ampadu,Chelsea,63,55,52,183.0,68.0,23.0
+618, B. Austin,Tottenham Hotspur,36,29,17,180.0,66.0,23.0
+619, S. Shashoua,Tottenham Hotspur,75,78,46,175.0,64.0,22.0
+620, N. Trott,West Ham United,40,33,18,183.0,67.0,23.0
+621, J. Knight,Leicester City,55,60,47,188.0,76.0,23.0
+622, R. McCourt,West Bromwich Albion,64,54,32,178.0,64.0,22.0
+623, A. Birch,Burnley,67,63,41,178.0,72.0,22.0
+624, H. Limb,Burnley,74,72,53,178.0,70.0,22.0
+625, H. Flowers,Burnley,51,60,34,188.0,75.0,23.0
+626, T. Chakwana,Burnley,80,77,53,170.0,62.0,22.0
+627, N. Kirby,Crystal Palace,77,76,42,173.0,66.0,22.0
+628, D. Cogill,Huddersfield Town,53,58,50,185.0,82.0,23.0
+629, M. Bulka,Chelsea,27,25,22,198.0,90.0,24.0
+630, M. Foulds,Everton,60,51,38,183.0,74.0,23.0
+631, M. Wood,Manchester City,63,59,51,175.0,70.0,22.0
+632, Y. Ben El-Mhanni,Newcastle United,79,78,59,178.0,75.0,22.0
+633, K. Sterling,Tottenham Hotspur,73,76,51,180.0,66.0,23.0
+634, A. Palmer,West Bromwich Albion,26,37,21,183.0,72.0,23.0
+635, E. Pierce,West Bromwich Albion,46,54,60,183.0,68.0,23.0
+636, A. Wan-Bissaka,Crystal Palace,74,72,51,183.0,72.0,23.0
+637, M. Phillips,Crystal Palace,60,61,52,175.0,77.0,22.0
+638, A. Connolly,Brighton amp Hove Albion,68,71,55,175.0,73.0,22.0
+639, J. Holmes,Bournemouth,30,26,17,188.0,75.0,23.0
+640, T. Akinola,West Ham United,54,63,27,188.0,73.0,23.0
+641, K. Metz,Burnley,86,89,52,180.0,65.0,23.0
+642, M. Howarth,Burnley,64,66,47,178.0,64.0,22.0
+643, R. Nabi,Burnley,67,63,51,178.0,66.0,22.0
+644, O. Bayode,Burnley,71,65,36,178.0,67.0,22.0
+645, J. Lokilo,Crystal Palace,80,79,62,173.0,71.0,22.0
+646, M. Waddington,Stoke City,62,63,56,183.0,66.0,23.0
+647, T. Ryan,Huddersfield Town,42,49,20,180.0,74.0,23.0
+648, Erik Sarmiento,Manchester City,72,68,51,183.0,70.0,23.0
+649, B. House,West Bromwich Albion,21,33,23,185.0,70.0,23.0
+650, D. Hutchinson,Brighton amp Hove Albion,56,57,49,173.0,71.0,22.0
+651, D. Kane,Huddersfield Town,50,50,33,185.0,73.0,23.0
+652, R. Booty,Huddersfield Town,62,56,50,180.0,75.0,23.0
+653, R. Edmonds-Green,Huddersfield Town,56,61,40,180.0,73.0,23.0
+654, R. Schofield,Huddersfield Town,28,33,17,190.0,70.0,24.0
+655, J. Boyle,Huddersfield Town,60,55,58,168.0,65.0,21.0
+656, E. Ross,West Bromwich Albion,35,32,22,196.0,94.0,24.0
+657, N. Husin,Crystal Palace,67,63,50,178.0,65.0,22.0
+658, J. Latibeaudiere,Manchester City,57,54,32,183.0,67.0,23.0
